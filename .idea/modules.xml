@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaRMI.iml" filepath="$PROJECT_DIR$/.idea/JavaRMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadora8op/calculadora8op.iml" filepath="$PROJECT_DIR$/calculadora8op/calculadora8op.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraNumerosEstaticos/calculadoraNumerosEstaticos.iml" filepath="$PROJECT_DIR$/calculadoraNumerosEstaticos/calculadoraNumerosEstaticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloWorldRMI2/helloWorldRMI2.iml" filepath="$PROJECT_DIR$/helloWorldRMI2/helloWorldRMI2.iml" />
+    </modules>
+  </component>
+</project>
